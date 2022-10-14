@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=45&pause=2000&color=0FC2FF&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Da+Wei+Ting+%E3%83%BE(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E%E2%99%AA)](https://git.io/typing-svg)
 
-[![dwting0322's GitHub stats](https://github-readme-stats.vercel.app/api?username=0322&show_icons=true&theme=dracula)](https://github.com/0322)
+[![dwting0322's GitHub stats](https://github-readme-stats.vercel.app/api?username=0322&show_icons=true&theme=dracula)](https://github.com/dwting0322)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Languages%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=125&height=25&lines=Languages%3A)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp; 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Frontend%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=125&height=25&lines=Frontend%3A)](https://git.io/typing-svg)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=00FF41&width=145&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=145&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
