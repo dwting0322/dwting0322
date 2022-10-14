@@ -1,5 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=45&pause=2000&color=000000&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Da+Wei+Ting+%E3%83%BE(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E%E2%99%AA)](https://git.io/typing-svg)
-
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=45&pause=2000&color=0FC2FF&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Da+Wei+Ting+%E3%83%BE(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E%E2%99%AA)](https://git.io/typing-svg)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
