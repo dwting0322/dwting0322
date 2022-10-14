@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align='left'>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=125&height=25&lines=Languages%3A)](https://git.io/typing-svg)
