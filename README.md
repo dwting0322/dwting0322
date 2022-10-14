@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 
 <br>
 
-### Contact Me
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=45&pause=2000&color=0FC2FF&width=1000&height=100&lines=Contact+me+%3A)](https://git.io/typing-svg)
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/da-wei-ting-cpa-a929b5102/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dwting0322)
