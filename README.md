@@ -5,7 +5,8 @@
 
 [![Da Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwting0322&show_icons=true&theme=dracula)](https://github.com/dwting0322)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwting0322" /> -->
-
+</div>
+  
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='left'>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=2000&pause=1000&color=0FC2FF&width=125&height=25&lines=Languages%3A)](https://git.io/typing-svg)
