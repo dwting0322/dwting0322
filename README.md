@@ -1,5 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=45&pause=2000&color=0FC2FF&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Da+Wei+Ting+%E3%83%BE(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E%E2%99%AA)](https://git.io/typing-svg)
 
+<!-- [github-stats]: -->
+<div align='center'>
+
 [![Da Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwting0322&show_icons=true&theme=dracula)](https://github.com/dwting0322)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwting0322" />
 
