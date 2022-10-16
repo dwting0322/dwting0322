@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Jinja](https://img.shields.io/badge/jinja-blue.svg?style=for-the-badge&logo=jinja&logoColor=black)&nbsp;
+![Jinja](https://img.shields.io/badge/jinja-red.svg?style=for-the-badge&logo=jinja&logoColor=black)&nbsp;
 
 <br> 
 
