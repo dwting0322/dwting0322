@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=3000&pause=2000&color=0FC2FF&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
-
+![awss3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=3000&pause=2000&color=0FC2FF&width=145&height=25&lines=Other+Tools%3A)](https://git.io/typing-svg)
-![awss3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)&nbsp;
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp; 
