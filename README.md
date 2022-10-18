@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OCR-A&duration=3000&pause=2000&color=0FC2FF&width=125&height=25&lines=Backend%3A)](https://git.io/typing-svg)
+
 ![awss3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
