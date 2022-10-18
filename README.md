@@ -16,7 +16,7 @@ David graduated from UC San Diego. After he graduated, he followed the path he h
 
 All of David's life has already been observant about how to make the world simpler, client's satisfaction and more productive. He is type of person who is passionate about solving challenging problems, working on continuously improving his knowledge and skillsets, team building, and trying something new every day. His core competencies are in Javascript, Python, React, Redux, Node, Express, SQL, SQLAlchemy, Flask. This culminated in 3 full-stack projects, but more importantly in that he learned how to adapt quickly and apply new technologies. He is looking forward to discussing how he could help to solve any challenges and building positive applications to make this world better.
 
-In his free time, David loves to travel, watch movies, and communicate with different people to learn more about knowledge and culture.
+David also went through a rigorous 1000+ hour coding bootcamp called App Academy to give himself on how modern technology works today. He is looking for the next charpter in his life where hopefully can be part of your big family!
 
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
