@@ -7,6 +7,20 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwting0322" /> -->
 </div>
   
+  
+### About Me
+
+Hansen Guo is a Systems Engineering graduate student at Johns Hopkins University, a consultant intern at The World Bank, and a teaching assistant at JHU School of Advanced International Studies. He is also a professional full-stack developer. He has a strong passion for computer science, sustainable development, and energy systems.
+
+All of Hansen's life has already been observant about how to make the world around him simpler or more productive. Software engineering gave him the vehicle to leverage his skills and contribute on a global scale. Transforming a hobby into a career has been an incredible and rewarding experience. His core competencies are in React, Redux, Node, Express, SQL, Flask, JavaScript and Python. He looks forward to discussing how he could help solve any challenges you may have and build positive applications.
+
+Hansen received his bachelor’s degree from The Hong Kong Polytechnic University with first-class honour and Dean’s honour. At The Hong Kong Polytechnic University, Hansen conducted extensive research on the application of engineering technology in the sustainable power grid and sustainable buildings and published two papers. In addition, he developed an integrated framework of construction project performance recovery evaluation in the post-COVID-19 pandemic.
+
+In the past, Hansen worked as a Development Associate at United Nations Volunteers to research and develop projects and organizational strategies for sustainable development in Africa. Hansen has also worked as an advisory intern at Arup, where he solved real-world issues facing sustainable development. Together with his team, he proposed a systematic development strategy to implement environmentally sustainable business practices at the new headquarters and K-12 school of Tencent Future Sci-Tech City in Shenzhen, and provide sustainable development strategies for other companies.
+
+In his spare time, Hansen loves to travel, watch movies, and communicate with different people to learn more about knowledge and culture.
+
+
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 
