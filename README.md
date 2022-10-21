@@ -86,3 +86,7 @@ Here are some ideas to get you started:
 
 [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/da-wei-ting-cpa-a929b5102/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dwting0322)
+<a href="https://angel.co/u/da-wei-ting" target="_blank">
+  <img align="left" src="https://camo.githubusercontent.com/cfcfebdd32ca7b347d019249ba94010c394a09055e7cd71359b581a96b065237/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d2532334434443444342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b" height=30 />
+</a>
+
