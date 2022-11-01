@@ -10,7 +10,7 @@
   
 ### About Me
 
-Da Wei (David) Ting is a CPA at KPMG (one of Big 4 Firm). He is also a professional full-stack software engineer. He has a strong passion for computer science, sustainable development, and software development. In additon, he dedicated to help clients achieve their business goals through utilizing modern software technology. 
+Da Wei (David) Ting is a professional full-stack software engineer and also a CPA at KPMG (one of Big 4 Firm). He has a strong passion for computer science, sustainable development, and software development. In additon, he dedicated to help clients achieve their business goals through utilizing modern software technology. 
 
 David graduated from UC San Diego. After he graduated, he followed the path he had set for himself and got the CPA license, and finally landed a position working at one of the Big Four Firms. At that time, he felt he had achieved success in his current stage. However, he realized that he wants to become a software engineer because transforming a hobby into a career has been an incredible and rewarding experience.
 
